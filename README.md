@@ -6,6 +6,8 @@ Hunting Unmanned Aerial Vehicle 2019 全国大学生电子设计竞赛 【B题�
 </p>
 
 
+[通信协议](./Docs/README.md)
+
 ## 简介
 2019集大电协 巡线无人机
 
@@ -20,10 +22,21 @@ Keil|软件编程
 Solidworks|3D软件（3D打印）
 123D Design|3D软件（激光切割）
 
+
+| 硬件 | 描述 |
+| -- | -- |
+|芯片型号| TM4C123G |
+|CPU| Cortex-M4 |
+|主频| 80MHz |
+|FLASH| 256KB |
+|RAM|  32KB |
+|EEPROM|  2KB |
+|单元| FPU、DSP |
+
 ## 目录说明
 ````
 +——Marine craft
-|----+ Dos: 【设计文档】
+|----+ Docs: 【设计文档】
 |    |  tool 【调试工具】
 |    |  参考文献 
 |---- 3D model: 【3D模型、激光切割】
