@@ -15,6 +15,10 @@ Hunting Unmanned Aerial Vehicle 2019 全国大学生电子设计竞赛 【B题�
 本机器人采用TM4C123GH6PMI单片机为主控制器，通过六轴加速度陀螺仪ICM20602采集的四旋翼欧拉角数据进行ADRC处理以保持飞机的姿态稳定；采用SPL06气压传感器以及激光测距模块GY-53L1控制巡线机器人的飞行高度；使用OpenMV实现巡检电力线路及杆塔状态。
 
 
+![6轴坐标](/Docs/Pictures/MPU6050.png "6轴坐标")
+
+![东南天坐标系](/Docs/Pictures/ENU.png "东南天坐标系")
+
 工具     | 描述
 -------- | -----
 Altium Design|PCB设计
