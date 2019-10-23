@@ -97,7 +97,7 @@ Solidworks|3D软件（3D打印）
 
 ## UVA-1 && UVA-2
 
-![UVA-1](/Docs/Pictures/UAV-1 (2).jpg "UVA-1")
+![UVA-1](/Docs/Pictures/UAV-1.jpg "UVA-1")
 
 ![UVA-2](/Docs/Pictures/UAV-2.jpg "UVA-2")
 
